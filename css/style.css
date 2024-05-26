@@ -79,6 +79,15 @@ html {
 
 section .gambar {
   border-radius: 10px;
+  max-width: 400px;
+  max-height: 500px;
+}
+section .gambar {
+  border-radius: 10px;
+  height: 450px;
+}
+section .gambar3{
+  height: 300px;
 }
 
 section .ucapan {
